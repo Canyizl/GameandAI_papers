@@ -10,10 +10,10 @@ This list maintains my personal videos for sharing papers related to Game design
 
 ### Game Storyline Generation
 
-- From Role-Play to Drama-Interaction: An LLM Solution.[[video]](https://b23.tv/T3rr0W7) [[pdf]](https://arxiv.org/abs/2405.14231)
+- [游戏AI论文速览]From Role-Play to Drama-Interaction: An LLM Solution.[2405.14231] [[BiliBili]](https://www.bilibili.com/video/BV1uYRiYbEu4/?share_source=copy_web&vd_source=8c54452a6523122473b7c3ef020a39cd) [[pdf]](https://arxiv.org/abs/2405.14231)
 
   ![DramaLLM](/Images/dramallm.png)
 
 ### Game Image Generation
-- Personal Survey: Diffusion Model with Control and Personalization (ControlNet, IPAdapter, LoRA, Dreambooth). [[video]](https://b23.tv/TZZUE3W).
+- [游戏AI论文速览]Personal Survey: Diffusion Model with Control and Personalization. [[BiliBili]](https://www.bilibili.com/video/BV1FcdSYQEmY/?share_source=copy_web&vd_source=8c54452a6523122473b7c3ef020a39cd)
 ![DMCP](/Images/dmcp.png)
