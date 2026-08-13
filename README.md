@@ -15,5 +15,8 @@ This list maintains my personal videos for sharing papers related to Game design
   ![DramaLLM](/Images/dramallm.png)
 
 ### Game Image Generation
+
+- 全模态整合生成（2026）Seedance 2.0: Advancing Video Generation for World Complexity
+
 - 静态图片生成个性化（2023） [游戏AI论文速览]Personal Survey: Diffusion Model with Control and Personalization. [[BiliBili]](https://www.bilibili.com/video/BV1FcdSYQEmY/?share_source=copy_web&vd_source=8c54452a6523122473b7c3ef020a39cd)
 ![DMCP](/Images/dmcp.png)
