@@ -1,4 +1,4 @@
-# Videos_for_GameandAI_papers
+# GameandAI_papers
 This list maintains my personal videos for sharing papers related to Game design based on AI models.
 
 ## Contents
